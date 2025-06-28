@@ -1,0 +1,10 @@
+.sector{
+    background-color: rgb(233, 234, 234);
+    color: rgb(75, 75, 227);
+    padding: 10px;
+    margin: 10px;
+}
+
+.custom-accordion{
+    background-color: rgb(233, 234, 234) !important;
+}

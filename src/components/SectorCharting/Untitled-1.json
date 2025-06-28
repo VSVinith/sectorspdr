@@ -1,0 +1,467 @@
+{
+  "last_updated": "2025-04-14T12:00:00Z",
+  "sectors": [
+    {
+      "sector": "Technology",
+      "etf": "XLK",
+      "holdings": [
+        {
+          "symbol": "AAPL",
+          "company_name": "Apple Inc.",
+          "index_weight": 15.44,
+          "last_value": 185.23,
+          "change_value": -1.56,
+          "change_percent": -0.84
+        },
+        {
+          "symbol": "MSFT",
+          "company_name": "Microsoft Corporation",
+          "index_weight": 13.43,
+          "last_value": 312.58,
+          "change_value": 2.34,
+          "change_percent": 0.75
+        },
+        {
+          "symbol": "NVDA",
+          "company_name": "NVIDIA Corporation",
+          "index_weight": 13.43,
+          "last_value": 823.45,
+          "change_value": 10.23,
+          "change_percent": 1.26
+        },
+        {
+          "symbol": "AVGO",
+          "company_name": "Broadcom Inc.",
+          "index_weight": 5.85,
+          "last_value": 1420.65,
+          "change_value": -8.75,
+          "change_percent": -0.61
+        },
+        {
+          "symbol": "CRM",
+          "company_name": "Salesforce, Inc.",
+          "index_weight": 3.43,
+          "last_value": 525.16,
+          "change_value": 4.12,
+          "change_percent": 0.79
+        }
+      ]
+    },
+    {
+      "sector": "Financials",
+      "etf": "XLF",
+      "holdings": [
+        {
+          "symbol": "BRK.B",
+          "company_name": "Berkshire Hathaway Inc. Class B",
+          "index_weight": 13.86,
+          "last_value": 350.12,
+          "change_value": 1.45,
+          "change_percent": 0.42
+        },
+        {
+          "symbol": "JPM",
+          "company_name": "JPMorgan Chase & Co.",
+          "index_weight": 9.62,
+          "last_value": 160.45,
+          "change_value": -0.85,
+          "change_percent": -0.53
+        },
+        {
+          "symbol": "V",
+          "company_name": "Visa Inc. Class A",
+          "index_weight": 8.43,
+          "last_value": 245.67,
+          "change_value": 2.10,
+          "change_percent": 0.86
+        },
+        {
+          "symbol": "MA",
+          "company_name": "Mastercard Inc. Class A",
+          "index_weight": 6.36,
+          "last_value": 370.89,
+          "change_value": -1.20,
+          "change_percent": -0.32
+        },
+        {
+          "symbol": "BAC",
+          "company_name": "Bank of America Corp.",
+          "index_weight": 4.01,
+          "last_value": 42.78,
+          "change_value": 0.15,
+          "change_percent": 0.35
+        }
+      ]
+    },
+    {
+      "sector": "Health Care",
+      "etf": "XLV",
+      "holdings": [
+        {
+          "symbol": "LLY",
+          "company_name": "Eli Lilly & Co.",
+          "index_weight": 12.4,
+          "last_value": 620.50,
+          "change_value": 5.20,
+          "change_percent": 0.85
+        },
+        {
+          "symbol": "UNH",
+          "company_name": "UnitedHealth Group Inc.",
+          "index_weight": 9.5,
+          "last_value": 510.30,
+          "change_value": -3.10,
+          "change_percent": -0.60
+        },
+        {
+          "symbol": "JNJ",
+          "company_name": "Johnson & Johnson",
+          "index_weight": 6.9,
+          "last_value": 160.75,
+          "change_value": 1.25,
+          "change_percent": 0.78
+        },
+        {
+          "symbol": "ABBV",
+          "company_name": "AbbVie Inc.",
+          "index_weight": 6.2,
+          "last_value": 145.60,
+          "change_value": -0.90,
+          "change_percent": -0.61
+        },
+        {
+          "symbol": "MRK",
+          "company_name": "Merck & Co., Inc.",
+          "index_weight": 5.1,
+          "last_value": 115.20,
+          "change_value": 0.80,
+          "change_percent": 0.70
+        }
+      ]
+    },
+    {
+      "sector": "Consumer Discretionary",
+      "etf": "XLY",
+      "holdings": [
+        {
+          "symbol": "AMZN",
+          "company_name": "Amazon.com Inc.",
+          "index_weight": 22.1,
+          "last_value": 135.60,
+          "change_value": 1.10,
+          "change_percent": 0.82
+        },
+        {
+          "symbol": "TSLA",
+          "company_name": "Tesla Inc.",
+          "index_weight": 14.7,
+          "last_value": 720.45,
+          "change_value": -5.20,
+          "change_percent": -0.72
+        },
+        {
+          "symbol": "HD",
+          "company_name": "Home Depot Inc.",
+          "index_weight": 8.1,
+          "last_value": 310.30,
+          "change_value": 2.50,
+          "change_percent": 0.81
+        },
+        {
+          "symbol": "MCD",
+          "company_name": "McDonald's Corp.",
+          "index_weight": 4.4,
+          "last_value": 280.75,
+          "change_value": -1.30,
+          "change_percent": -0.46
+        },
+        {
+          "symbol": "LOW",
+          "company_name": "Lowe's Cos. Inc.",
+          "index_weight": 4.3,
+          "last_value": 200.60,
+          "change_value": 1.10,
+          "change_percent": 0.55
+        }
+      ]
+    },
+    {
+      "sector": "Energy",
+      "etf": "XLE",
+      "holdings": [
+        {
+          "symbol": "AMZN",
+          "company_name": "Amazon.com Inc.",
+          "index_weight": 22.1,
+          "last_value": 135.60,
+          "change_value": 1.10,
+          "change_percent": 0.82
+        },
+        {
+          "symbol": "TSLA",
+          "company_name": "Tesla Inc.",
+          "index_weight": 14.7,
+          "last_value": 720.45,
+          "change_value": -5.20,
+          "change_percent": -0.72
+        },
+        {
+          "symbol": "HD",
+          "company_name": "Home Depot Inc.",
+          "index_weight": 8.1,
+          "last_value": 310.30,
+          "change_value": 2.50,
+          "change_percent": 0.81
+        },
+        {
+          "symbol": "MCD",
+          "company_name": "McDonald's Corp.",
+          "index_weight": 4.4,
+          "last_value": 280.75,
+          "change_value": -1.30,
+          "change_percent": -0.46
+        },
+        {
+          "symbol": "LOW",
+          "company_name": "Lowe's Cos. Inc.",
+          "index_weight": 4.3,
+          "last_value": 200.60,
+          "change_value": 1.10,
+          "change_percent": 0.55
+        }
+      ]
+    },
+    {
+      "sector": "Communication Services",
+      "etf": "XLC",
+      "holdings": [
+        {
+          "symbol": "GOOGL",
+          "company_name": "Alphabet Inc. Class A",
+          "index_weight": 11.5,
+          "last_value": 135.60,
+          "change_value": 1.10,
+          "change_percent": 0.82
+        },
+        {
+          "symbol": "META",
+          "company_name": "Meta Platforms Inc.",
+          "index_weight": 10.7,
+          "last_value": 320.45,
+          "change_value": -2.20,
+          "change_percent": -0.68
+        },
+        {
+          "symbol": "NFLX",
+          "company_name": "Netflix Inc.",
+          "index_weight": 4.8,
+          "last_value": 410.30,
+          "change_value": 3.50,
+          "change_percent": 0.86
+        },
+        {
+          "symbol": "DIS",
+          "company_name": "Walt Disney Co.",
+          "index_weight": 4.2,
+          "last_value": 95.75,
+          "change_value": -1.10,
+          "change_percent": -1.14
+        },
+        {
+          "symbol": "CMCSA",
+          "company_name": "Comcast Corp.",
+          "index_weight": 3.9,
+          "last_value": 42.60,
+          "change_value": 0.60,
+          "change_percent": 1.43
+        }
+      ]
+    },
+    {
+      "sector": "Consumer Staples",
+      "etf": "XLP",
+      "holdings": [
+        {
+          "symbol": "PG",
+          "company_name": "Procter & Gamble Co.",
+          "index_weight": 9.8,
+          "last_value": 145.20,
+          "change_value": -0.80,
+          "change_percent": -0.55
+        },
+        {
+          "symbol": "KO",
+          "company_name": "Coca-Cola Co.",
+          "index_weight": 8.1,
+          "last_value": 60.45,
+          "change_value": 0.50,
+          "change_percent": 0.83
+        },
+        {
+          "symbol": "PEP",
+          "company_name": "PepsiCo Inc.",
+          "index_weight": 7.5,
+          "last_value": 180.30,
+          "change_value": -1.20,
+          "change_percent": -0.66
+        },
+        {
+          "symbol": "WMT",
+          "company_name": "Walmart Inc.",
+          "index_weight": 6.9,
+          "last_value": 150.75,
+          "change_value": 1.10,
+          "change_percent": 0.73
+        },
+        {
+          "symbol": "MO",
+          "company_name": "Altria Group Inc.",
+          "index_weight": 4.3,
+          "last_value": 45.60,
+          "change_value": -0.30,
+          "change_percent": -0.65
+        }
+      ]
+    },
+    {
+      "sector": "Industrials",
+      "etf": "XLI",
+      "holdings": [
+        {
+          "symbol": "UNP",
+          "company_name": "Union Pacific Corp.",
+          "index_weight": 4.5,
+          "last_value": 210.60,
+          "change_value": 2.10,
+          "change_percent": 1.01
+        },
+        {
+          "symbol": "UPS",
+          "company_name": "United Parcel Service Inc.",
+          "index_weight": 4.2,
+          "last_value": 190.45,
+          "change_value": -1.50,
+          "change_percent": -0.78
+        },
+        {
+          "symbol": "BA",
+          "company_name": "Boeing Co.",
+          "index_weight": 3.9,
+          "last_value": 220.30,
+          "change_value": 3.00,
+          "change_percent": 1.38
+        },
+        {
+          "symbol": "HON",
+          "company_name": "Honeywell International Inc.",
+          "index_weight": 3.6,
+          "last_value": 195.75,
+          "change_value": -0.90,
+          "change_percent": -0.46
+        },
+        {
+          "symbol": "CAT",
+          "company_name": "Caterpillar Inc.",
+          "index_weight": 3.3,
+          "last_value": 230.60,
+          "change_value": 1.80,
+          "change_percent": 0.79
+        }
+      ]
+    },
+    {
+      "sector": "Materials",
+      "etf": "XLB",
+      "holdings": [
+        {
+          "symbol": "LIN",
+          "company_name": "Linde plc",
+          "index_weight": 5.8,
+          "last_value": 350.60,
+          "change_value": 2.50,
+          "change_percent": 0.72
+        },
+        {
+          "symbol": "SHW",
+          "company_name": "Sherwin-Williams Co.",
+          "index_weight": 4.5,
+          "last_value": 280.45,
+          "change_value": -1.20,
+          "change_percent": -0.43
+        },
+        {
+          "symbol": "ECL",
+          "company_name": "Ecolab Inc.",
+          "index_weight": 3.9,
+          "last_value": 190.30,
+          "change_value": 1.10,
+          "change_percent": 0.58
+        },
+        {
+          "symbol": "APD",
+          "company_name": "Air Products & Chemicals Inc.",
+          "index_weight": 3.6,
+          "last_value": 250.75,
+          "change_value": -2.00,
+          "change_percent": -0.79
+        },
+        {
+          "symbol": "NEM",
+          "company_name": "Newmont Corporation",
+          "index_weight": 3.3,
+          "last_value": 45.60,
+          "change_value": 0.40,
+          "change_percent": 0.88
+        }
+      ]
+    },
+    {
+      "sector": "Real Estate",
+      "etf": "XLRE",
+      "holdings": [
+        {
+          "symbol": "LIN",
+          "company_name": "Linde plc",
+          "index_weight": 5.8,
+          "last_value": 350.60,
+          "change_value": 2.50,
+          "change_percent": 0.72
+        },
+        {
+          "symbol": "SHW",
+          "company_name": "Sherwin-Williams Co.",
+          "index_weight": 4.5,
+          "last_value": 280.45,
+          "change_value": -1.20,
+          "change_percent": -0.43
+        },
+        {
+          "symbol": "ECL",
+          "company_name": "Ecolab Inc.",
+          "index_weight": 3.9,
+          "last_value": 190.30,
+          "change_value": 1.10,
+          "change_percent": 0.58
+        },
+        {
+          "symbol": "APD",
+          "company_name": "Air Products & Chemicals Inc.",
+          "index_weight": 3.6,
+          "last_value": 250.75,
+          "change_value": -2.00,
+          "change_percent": -0.79
+        },
+        {
+          "symbol": "NEM",
+          "company_name": "Newmont Corporation",
+          "index_weight": 3.3,
+          "last_value": 45.60,
+          "change_value": 0.40,
+          "change_percent": 0.88
+        }
+      ]
+    }
+  ]
+}      
+
+ 
